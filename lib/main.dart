@@ -6,6 +6,7 @@ void main() {
   runApp(MyApp());
 }
 
+// https://medium.com/flutter-community/server-sent-events-sse-with-flutter-cf331f978b4f
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
